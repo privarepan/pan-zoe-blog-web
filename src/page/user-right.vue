@@ -6,9 +6,9 @@
            target="_blank">
           <i class="icon trophy"> 小白</i>
         </a>
-        <div class="image" href="">
+        <div class="image">
           <a class="ui popover" style="cursor:default">
-            <img style="width:100%" src="../assets/images/public/default_avatar.jpg">
+            <img style="width:100%" src="http://api.pan-zoe.com/img/default_avatar.ad36140.jpg">
           </a>
         </div>
         <div class="statistics mt-3 mb-3"

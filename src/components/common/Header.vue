@@ -12,7 +12,7 @@
           博客
         </a>
       </router-link>
-      <div class="ui simple item dropdown article stackable nav-user-item  secondary">
+      <!--<div class="ui simple item dropdown article stackable nav-user-item  secondary">
         教程 <i class="dropdown icon"></i>
         <div class="ui menu stackable">
           <router-link to="/books">
@@ -28,6 +28,7 @@
 
         </div>
       </div>
+      -->
       <router-link to="/about">
         <a href="#" class="item secondary">
           关于本站
