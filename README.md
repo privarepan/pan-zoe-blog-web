@@ -8,7 +8,7 @@
  4. axios做请求工具
  5. element-ui做ui框架。
  6. 项目实现了动态路由，跨域配置，请求拦截，路由拦截，状态本地存储等。
- 7. 线上地址  https://www.aizhifou.cn
+ 7. 线上地址  http://www.pan-zoe.com
 ```
  /*当前目录命令行输入下面的命令*/
     npm config set registry https://registry.npm.taobao.org/
@@ -22,8 +22,8 @@
     npm run build
 ```
 `node-sass`能容易安装失败，可以参照(这个)[https://segmentfault.com/a/1190000010984731] 来安装。
-    
-    
+
+
 
 
 ----------
