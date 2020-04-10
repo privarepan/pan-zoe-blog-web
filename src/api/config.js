@@ -1,7 +1,7 @@
 import axios from 'axios'
 import stores from "../vuex/store"
 import router from '../router/router.js'
-axios.defaults.baseURL = 'http://www.pan-zoe.com'
+axios.defaults.baseURL = 'http://api.pan-zoe.com'
 
 axios.interceptors.request.use(function (config) {
   stores.commit('setShowLoading', true)
